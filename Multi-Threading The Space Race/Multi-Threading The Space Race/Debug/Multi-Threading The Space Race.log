@@ -1,0 +1,4 @@
+﻿  Multi-Threading The Space Race.cpp
+D:\Users\kelle\Desktop\Assignments\Multi-Threading The Space Race\Multi-Threading The Space Race\Multi-Threading The Space Race\Multi-Threading The Space Race.cpp(18,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+D:\Users\kelle\Desktop\Assignments\Multi-Threading The Space Race\Multi-Threading The Space Race\Multi-Threading The Space Race\Multi-Threading The Space Race.cpp(28,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+  Multi-Threading The Space Race.vcxproj -> D:\Users\kelle\Desktop\Assignments\Multi-Threading The Space Race\Multi-Threading The Space Race\Debug\Multi-Threading The Space Race.exe
